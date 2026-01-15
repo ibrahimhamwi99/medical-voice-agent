@@ -48,7 +48,7 @@ This project is a prototype for an AI-powered voice agent designed to handle inc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Nero0225/medical-voice-agent.git
+   git clone https://github.com/nsingleton1/medical-voice-agent.git
    cd medical-voice-agent
    ```
 
